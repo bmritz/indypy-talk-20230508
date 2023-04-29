@@ -1,0 +1,13 @@
+{
+  "_template": "gh:bmritz/cookiecutter-hypermodern-python",
+  "author": "Brian Ritz",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "brianmritz@gmail.com",
+  "friendly_name": "Indypy Talk 20230508",
+  "github_user": "bmritz",
+  "license": "MIT",
+  "package_name": "indypy_talk_20230508",
+  "project_name": "indypy-talk-20230508",
+  "version": "0.0.0"
+}
