@@ -1,4 +1,4 @@
-r"""Example 1.  # noqa D208,D415
+"""Example 1.
 
 Problem:
     Our consultancy is partnering with a CPG brand to improve their sales on Amazon.
